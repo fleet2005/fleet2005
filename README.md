@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Srinivasan</h1>
 <h3 align="center">💻 An aspiring Software Engineer 🚀</h3>
 
-- 💪I’m currently strengthening - **My fundamentals of Computer Science.**
-
 - 💖 I love - **Developing full-stack web applications that aren't just cool, but actually useful to real people.**
 
 - 👨‍💻 All of my projects are available at - [https://portfolio-vishal-kappa.vercel.app/](https://portfolio-vishal-kappa.vercel.app/)
