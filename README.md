@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" height="30" width="40" /></a>
-</p>
+</p> <br>
 
-[![Total commits](https://github-readme-stats.vercel.app/api?username=fleet2005&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=false&custom_title=Vishal%20Srinivasan&theme=tokyonight)](https://github.com/fleet2005)
+<img src="https://img.shields.io/badge/Total%20Commits-384-brightgreen?style=flat-square" width="200"/>
 
 <sup>Note: Commits shown are only from my own public repositories.</sup>
 
