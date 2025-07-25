@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" height="30" width="40" /></a>
 </p> <br>
 
-<img src="https://img.shields.io/badge/Total%20Commits-390-brightgreen?style=flat-square" width="200"/>
+<img src="https://img.shields.io/badge/Total%20Commits-400-brightgreen?style=flat-square" width="200"/>
 
 <sup>Note: Commits shown are only from my own public repositories.</sup>
 
