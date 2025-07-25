@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Srinivasan</h1>
-<h3 align="center">💻 An aspiring Software Engineer 🚀</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=42A8F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BC+SDE+%7C+Full-Stack+Dev+%7C+AI%2FML+%F0%9F%92%BC" alt="Typing SVG"     />
+  </a>
+</p>
 
 - 💖 I love - **Developing full-stack web applications that aren't just cool, but actually useful to real people.**
 
