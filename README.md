@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 💖 I love - **Developing full-stack web applications that aren't just cool, but actually useful to real people.**
+- 💖 I love - **Developing full-stack web applications that aren't just cool, but actually useful to people.**
 
 - 👨‍💻 All of my projects are available at - [https://portfolio-vishal-kappa.vercel.app/](https://portfolio-vishal-kappa.vercel.app/)
 
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-srinivasan-661ab5257/" height="30" width="40" /></a>
 </p> <br>
 
-<img src="https://img.shields.io/badge/Total%20Commits-400-brightgreen?style=flat-square" width="200"/>
+<img src="https://img.shields.io/badge/Total%20Commits-427-brightgreen?style=flat-square" width="200"/>
 
 <sup>Note: Commits shown are only from my own public repositories.</sup>
 
